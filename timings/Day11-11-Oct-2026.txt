@@ -1,0 +1,4 @@
+ 2 hour - revising kubernetes lecture 
+ 30 min  - english practice
+ an hour - git coding and push code
+
