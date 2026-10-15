@@ -1,0 +1,4 @@
+ 3 hour  - revising kubernetes lecture and alos leran how to deploy eks cluster
+ an hour - english practice
+ an hour - coing and Git push
+
