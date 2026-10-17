@@ -1,0 +1,4 @@
+ 2 hour  - revising Argocd today lecture and practising to deploy eks cluster
+ an hour - english practice watching  english webseries
+ an hour - coding and Git push
+
