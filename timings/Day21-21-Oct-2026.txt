@@ -1,0 +1,3 @@
+ 2 hour  - revising ansible lecture
+ an hour - watching english webseries and practise speaking
+ an hour - git push and coding
