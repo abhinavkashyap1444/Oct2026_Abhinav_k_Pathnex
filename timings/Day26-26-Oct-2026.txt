@@ -1,0 +1,3 @@
+ 3 hour - revising terraform and  Doing practical of terraform 
+ 30 mins- coding and git push
+ an hour - revising kafka lecture
