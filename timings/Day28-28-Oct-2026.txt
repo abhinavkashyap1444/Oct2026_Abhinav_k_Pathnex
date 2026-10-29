@@ -1,0 +1,3 @@
+ an hour - Revising interview questions and kubernetes topics
+ 30 min  - English speaking
+ 30 min  - Git coding and push
