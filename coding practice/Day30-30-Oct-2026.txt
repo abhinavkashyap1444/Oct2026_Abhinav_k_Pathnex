@@ -1,0 +1,16 @@
+ --- Day 30 - Final Project Submision and Review---
+    # Final Task - Deploy a fully Integrated Pathnex Application with CI/CD Pipeline 
+    On this final day, your task is to deploy the entire Pathnex application on AWS or Kubernnetes, everything you've learned during the challenge.
+    1. Deploy with Terraform : Provision your infrastructure (VPC, EC2 isntances, RDS, etc).
+    2. Set UpKubernetes : Deploy the application stack using Kubernetes and Helm.
+    3. CI/CD Integration : Use Jenkins and Gitlab to automate deployment and monitoring.
+    4. Security and scaling : Ensure secure access and scalability with proper network policies and monitoring.
+    
+
+    # Final Submission:
+    - Submit complete setup to GitHub.
+    - Provide documentation on how to run and manage the system.
+    - Prepare for a final review and feedback session.
+
+----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
